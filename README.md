@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pedro Antonhyonhi Silva Costa
-- 👀 I’m interested in most topics regarding sofware engineering and architecture, in particular the ones related to game development.
-- 🌱 I’m currently learning data science and machine learning.
-- 💞️ I’m looking to collaborate on any Rust based project, especially game engines.
+- 👀 I’m interested in most topics regarding sofware engineering and architecture, in particular the ones related to game development. I also love to work with the whole Data Stack: from pipelines to production ML.
+- 🌱 I’m planning to learn Apache Spark and Data Bricks soon.
+- 💞️ I’m looking to collaborate on any Rust based project.
 - 📫 You can contact me on Telegram (https://t.me/pedro_scosta).
 
 <!---
